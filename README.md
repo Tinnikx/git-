@@ -4,4 +4,6 @@
 ### 1. git init
 ### 2. git commit -m "first commit"
 ### 3. git remote add origin git@github.com:Tinnikx/springboot-demo.git
-### 4. git push -u origin master
+### 4. git pull
+### 5. git rebase origin/master master
+### 6. git push -u origin master
